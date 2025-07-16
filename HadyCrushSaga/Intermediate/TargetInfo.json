@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HadyCrushSaga",
+			"Path": "..\\Source\\HadyCrushSaga.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HadyCrushSagaEditor",
+			"Path": "..\\Source\\HadyCrushSagaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Minhyeok\\HadyCrushSaga\\HadyCrushSaga\\Source\\HadyCrushSaga\\HadyCrushSaga.Build.cs",
+		"D:\\Minhyeok\\HadyCrushSaga\\HadyCrushSaga\\Source\\HadyCrushSaga.Target.cs",
+		"D:\\Minhyeok\\HadyCrushSaga\\HadyCrushSaga\\Source\\HadyCrushSagaEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
